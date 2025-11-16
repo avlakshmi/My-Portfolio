@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vijayalakshmi Ayyavu - Resume</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        body {
+            font-family: 'Times New Roman', serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        .header {
+            text-align: center;
+            border-bottom: 3px solid #2c3e50;
+            padding-bottom: 20px;
+            margin-bottom: 30px;
+        }
+        .name {
+            font-size: 28px;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        .contact-info {
+            font-size: 12px;
+            color: #666;
+        }
+        .section {
+            margin-bottom: 25px;
+        }
+        .section-title {
+            font-size: 18px;
+            font-weight: bold;
+            color: #2c3e50;
+            border-bottom: 2px solid #3498db;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+        }
+        .experience-item {
+            margin-bottom: 20px;
+        }
+        .experience-header {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 10px;
+        }
+        .job-title {
+            font-weight: bold;
+            font-size: 16px;
+        }
+        .company {
+            font-style: italic;
+            color: #666;
+        }
+        .date {
+            font-size: 14px;
+            color: #666;
+            font-weight: bold;
+        }
+        .responsibilities, .accomplishments {
+            margin-left: 20px;
+            margin-top: 10px;
+        }
+        .responsibilities ul, .accomplishments ul {
+            margin-left: 20px;
+        }
+        .responsibilities li, .accomplishments li {
+            margin-bottom: 5px;
+        }
+        .skills-list {
+            margin-left: 20px;
+        }
+        .skills-list p {
+            margin-bottom: 8px;
+        }
+        .certifications ul {
+            margin-left: 20px;
+        }
+        .certifications li {
+            margin-bottom: 8px;
+        }
+        @media print {
+            body {
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="name">VIJAYALAKSHMI AYYAVU</div>
+        <div class="contact-info">
+            Email: avlakshmi@hotmail.com | 
+            LinkedIn: linkedin.com/in/vijayalakshmi-ayyavu | 
+            GitHub: github.com/vijayalakshmiayyavu/AI-Web-Development
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">PROFESSIONAL SUMMARY</div>
+        <div id="professional-summary-resume">
+            Experienced software professional with expertise in full-stack web development, 
+            artificial intelligence, and modern software engineering practices. Proven track record of designing, 
+            developing, and deploying scalable applications using cutting-edge technologies. Strong background in 
+            AI/ML integration, cloud computing, and agile methodologies. Demonstrated ability to lead cross-functional 
+            teams and deliver high-quality solutions that drive business value. Skilled in problem-solving, 
+            continuous learning, and adapting to emerging technologies in the rapidly evolving tech landscape.
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">TECHNICAL SKILLS</div>
+        <div class="skills-list" id="technical-skills-resume">
+            <p>Programming Languages: JavaScript, Python, Java, C#, TypeScript, SQL</p>
+            <p>Web Technologies: HTML5, CSS3, React, Angular, Vue.js, Node.js, Express.js, RESTful APIs</p>
+            <p>Databases: MySQL, MongoDB, PostgreSQL, SQL Server, Oracle</p>
+            <p>Cloud & DevOps: AWS, Azure, Docker, Kubernetes, CI/CD, Git, Jenkins</p>
+            <p>Frameworks & Libraries: .NET, Spring Boot, Django, Flask, jQuery, Bootstrap</p>
+            <p>Tools & Platforms: Visual Studio, VS Code, Postman, JIRA, Confluence, Agile/Scrum</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">TRENDING TECHNOLOGIES - AI SKILLS</div>
+        <div class="skills-list" id="ai-skills-resume">
+            <p>Machine Learning: Supervised and Unsupervised Learning, Model Training and Evaluation</p>
+            <p>Deep Learning: Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN)</p>
+            <p>Natural Language Processing: Text Processing, Sentiment Analysis, Language Models</p>
+            <p>Computer Vision: Image Recognition, Object Detection, Image Classification</p>
+            <p>AI Frameworks: TensorFlow, PyTorch, Keras, Scikit-learn</p>
+            <p>AI Tools: OpenAI API, Hugging Face, Jupyter Notebooks, Pandas, NumPy</p>
+            <p>AI Applications: Chatbots, Recommendation Systems, Predictive Analytics, Data Mining</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">WORK EXPERIENCE & ACCOMPLISHMENTS</div>
+        <div id="work-experience-resume">
+            <!-- Will be populated by JavaScript -->
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">WORK SUMMARY</div>
+        <div id="work-summary-resume">
+            With over 5 years of experience in software development, I have successfully delivered 
+            numerous projects across various domains including e-commerce, healthcare, and finance. My expertise 
+            spans full-stack development, cloud computing, and emerging AI technologies. I have a proven track 
+            record of leading teams, optimizing performance, and implementing best practices. My commitment to 
+            continuous learning has kept me at the forefront of technological advancements, particularly in AI 
+            and machine learning applications.
+        </div>
+    </div>
+
+    <div class="section">
+        <div class="section-title">CERTIFICATIONS</div>
+        <div class="certifications" id="certifications-resume">
+            <ul>
+                <li>AWS Certified Solutions Architect - Associate</li>
+                <li>Microsoft Certified: Azure Fundamentals</li>
+                <li>Certified Scrum Master (CSM)</li>
+                <li>Google Cloud Professional Cloud Architect</li>
+                <li>Oracle Certified Java Programmer</li>
+            </ul>
+        </div>
+    </div>
+
+    <script src="resume-data.js"></script>
+    <script>
+        // Populate resume with data
+        if (typeof resumeData !== 'undefined') {
+            if (resumeData.professionalSummary) {
+                document.getElementById('professional-summary-resume').textContent = resumeData.professionalSummary;
+            }
+            
+            if (resumeData.technicalSkills) {
+                document.getElementById('technical-skills-resume').innerHTML = 
+                    resumeData.technicalSkills.map(skill => `<p>${skill}</p>`).join('');
+            }
+            
+            if (resumeData.aiSkills) {
+                document.getElementById('ai-skills-resume').innerHTML = 
+                    resumeData.aiSkills.map(skill => `<p>${skill}</p>`).join('');
+            }
+            
+            if (resumeData.workExperience) {
+                const expContainer = document.getElementById('work-experience-resume');
+                resumeData.workExperience.forEach(exp => {
+                    const expDiv = document.createElement('div');
+                    expDiv.className = 'experience-item';
+                    expDiv.innerHTML = `
+                        <div class="experience-header">
+                            <div>
+                                <div class="job-title">${exp.title}</div>
+                                <div class="company">${exp.company}</div>
+                            </div>
+                            <div class="date">${exp.date}</div>
+                        </div>
+                        <div class="responsibilities">
+                            <strong>Key Responsibilities:</strong>
+                            <ul>
+                                ${exp.responsibilities.map(r => `<li>${r}</li>`).join('')}
+                            </ul>
+                        </div>
+                        <div class="accomplishments">
+                            <strong>Accomplishments:</strong>
+                            <ul>
+                                ${exp.accomplishments.map(a => `<li>${a}</li>`).join('')}
+                            </ul>
+                        </div>
+                    `;
+                    expContainer.appendChild(expDiv);
+                });
+            }
+            
+            if (resumeData.workSummary) {
+                document.getElementById('work-summary-resume').textContent = resumeData.workSummary;
+            }
+            
+            if (resumeData.certifications) {
+                document.getElementById('certifications-resume').innerHTML = 
+                    '<ul>' + resumeData.certifications.map(c => `<li>${c}</li>`).join('') + '</ul>';
+            }
+        }
+    </script>
+</body>
+</html>
+
