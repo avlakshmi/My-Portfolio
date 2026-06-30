@@ -1,52 +1,53 @@
 Vijayalakshmi Ayyavu
-Linkedin: https://www.linkedin.com/in/vijayalakshmi-ayyavu
-About Me: https://github.com/vijayalakshmiayyavu/My-Portfolio.git
-Github: https://github.com/vijayalakshmiayyavu/
 
-Mobile: 9945454760 | Email: avlakshmi@hotmail.com  
-Location: Villa 55, Shravanthi Oakridge, Adarsha Layout, Bangalore
+Engineering Leader | Cloud Engineering | Product Development | AI & Cloud Transformation | GenAI | Platform Engineering | LLM |PMP
 
-Education: Bachelor of Engineering | Electronics & Communication, 
-Thiagarajar College of Engineering, Madurai
-
+Mobile – 9945454760
+Email – avlakshmi@hotmail.com
+Location – Bangalore
+Social - https://www.linkedin.com/in/vijayalakshmi-ayyavu
+Git - https://github.com/avlakshmi, https://github.com/vijayalakshmiayyavu
+Portfolio - https://github.com/vijayalakshmiayyavu/My-Portfolio 
 Professional Summary
-* 29 years software development IT experience in SDLC lifecycle delivering value and building positive client relationships with top MNCs Unisys, Cognizant, and HCL Technologies. 
-* Experience in digital transformations, product development, Programs and Projects end-to-end delivery for large, cross-functional teams consulting with business users across the globe. Bringing in and growing engineering talent and transition strategy to measurable business results in building new and compelling experience to customers. 
-* Expertise in agile (Sprint/Scrum) PLM, requirement analysis, design, business analysis and Product Engineering with expertise to deep dive into lowest level of projects details and planning. 
-* Internal and External Stake holders  management and consulting experience with clients being as single point of contact for all project related queries and people for multi-year long projects. 
-* Active involvement in leading RFPs, POCs and responsible to track the project schedules, pricing, budget, forecast planning and tracking actual costs. Have won strategic projects using the expertise to validate the RFP responses, migration approaches, competitor evaluations and SOWs.
-* Experienced in process automations for data transformations. Designed the data transformation automation process clarifying customer queries for efficient and successful RPA implementation.
-* Good knowledge in cloud migrations (GCP, VMWare, Azure), building distributed systems, Architecture design patterns, storage solutions and micro services. Experience in CI/CD process, Dev ops Engineering and Devsec Ops.
-* PMP Certified. An Entrepreneurial spirit with strong ten years full stack programming experience in Mainframe, Java and open-source technologies using agile, iterative methodologies and went live successfully.
-* Have expertise in developing L1/L2/L3 support framework from scratch, building necessary process to meet SLAs, incident management, escalation management and SRE functions.
-* Domain expertise in Insurance, Healthcare, Information, Telecom and Cargo Transportation. 
-* Good Exposure in CMMI Level 5 process and contributed for process maturity certification as ATM.
+AI Engineering Leader with 30+ years of experience leading global engineering organizations delivering enterprise-scale platforms across Healthcare, Telecom, Insurance and Logistics. Proven expertise in building AI-enabled products, GenAI solutions, cloud-native platforms, distributed systems, engineering management, Agile delivery, stakeholder management and product engineering. 
+Experienced in engineering leadership, GenAI, LLMs, N8N, RAG, OpenAI, APIs, Agentic AI, Prompt Engineering, Machine Learning and cloud technologies including Azure, GCP and AWS. Experienced in leading cross-functional teams driving digital transformation, platform modernization and AI adoption. 
+Managed delivery of 9+ concurrent enterprise projects with teams of 100+ engineers delivering 95% on-time releases. Led executive stakeholder engagements across Optus, AT&T and Singtel, managing multi-million-dollar enterprise transformation initiatives.
 Work Summary 
-1. Subex, Associate Director Engineering, Dec 2021   Jul 2023   1 yr 7 months
-2. Visionet, Governance Manager, Nov 2020   May 2021   7 months
-3. Unisys, Associate Engineering Manager, Feb 2014   June 2020   6 yrs 4 months
-4. Cognizant Technologies, Manager Projects, Nov 2004   Mar 2010   5 yrs 4 months
-5. Xansa, Project Lead, June 2004   Oct 2004   5 months
-6. HCL Technologies, Project Lead, Mar 1997   May 2004   7 yrs 2 months
-7. ITI Limited, Assistant Manager, Jan-1990 - Mar-1997 - 7 yrs 2 months
-Certifications
-* Generative AI from Outskill
-* AI Tools Workshop by Be10x
-* PMP certification from PMI USA
-
-
-Technical Skill Exposure:
-
-Cobol, Natural, SAS, JCL, crystal report, Python, Java, Flask, Django, NodeJS, Json, HTML, CSS, Java Script, React, REST APIs, Micro services, VB, PL/SQL
-DB2, Adabas, Postgres, Mango DB
-
-VM, MVS, VSAM, CICS, ENDEVOR, FILEAID, RPA, Microsoft Dynamics 365 CRM, MS Project, SharePoint, JIRA, bitbucket, Docker, Kubernetes, CI/CD- Argo CD, GitLab
-
-Cloud
-
-AWS, VMWare, Azure, GCP, SaaS, PaaS, Azure Devops
-
-AI Web development
+•	Subex, Associate Director Engineering, Dec 2021   Jul 2023   1 yr 7 months
+•	Visionet, Governance Manager, Nov 2020   May 2021   7 months
+•	Unisys, Associate Engineering Manager, Feb 2014   June 2020   6 yrs 4 months
+•	Cognizant Technologies, Manager Projects, Nov 2004   Mar 2010   5 yrs 4 months
+•	Xansa, Project Lead, June 2004   Oct 2004   5 months
+•	HCL Technologies, Project Lead, Mar 1997   May 2004   7 yrs 2 months
+•	ITI Limited, Assistant Manager, Jan-1990 - Mar-1997 - 7 yrs 2 months
+Leadership Highlights
+✔ 30 years engineering leadership
+✔ Managed global distributed Engineering Teams and involved in Engineering hiring
+✔ Led cloud modernization and Agile transformation
+✔ Product roadmap planning, Partner with product managers & Delivered Products
+✔ Mentor Engineers, manage technical discussions and Executive stakeholders’ approvals 
+✔ AI adoption initiatives, work with modern AI frameworks and Deliver AI products
+✔ Build scalable engineering organizations and continuous learning
+Core Skills
+Gen AI, OpenAI, Agentic AI, RAG, N8N, LLM, Prompt Engineering, ML, DL
+Python, JavaScript, ,COBOL, Natural, PL/SQL
+Azure, AWS, GCP, Docker, Kubernetes, ArgoCD, GitLab CI/CD
+PostgreSQL, MongoDB, Oracle, DB2
+Experience Highlights
+- Associate Director Engineering, Subex (2021-2023): Led enterprise cloud platform deliveries for Optus, AT&T and Singtel, managed cross-functional engineering teams, cloud migration and stakeholder management.
+- Associate Engineering Manager, Unisys (2014-2020): Delivered logistics platform Unisys Next Gen Logistics modernization, Java migration, Agile releases and product roadmap execution.
+- Earlier leadership roles at Cognizant for Elsevier, D&B and UHG, HCL Technologies and ITI with healthcare, insurance and enterprise modernization programs.
+AI Projects
+•	Built GenAI-powered enterprise assistants using OpenAI APIs
+•	Developed RAG-based knowledge retrieval applications
+•	Built AI web applications, N8N workflows
+•	Developed AI-powered business analytics dashboards using PowerBI
+•	Built AI-powered automation solutions
+•	Created AI-based data analysis pipelines
+Education & Certifications
+B.E. Electronics & Communication
+PMP Certified
+Generative AI and AI Engineer Certification
 
 WORK EXPERIENCE AND ACCOMPLISHMENTS
 Dec 2021 to Jul 2023
